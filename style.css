@@ -1,0 +1,28 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-image: url("./img/imgc.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 80%;
+    background-color: rgb(244, 244, 247);
+
+}
+
+h1 {
+    color: rgb(46, 32, 59);
+}
+
+h2 {
+    padding-left: 2%;
+}
+
+#refreshBtn {
+    background-color: azure;
+}
+
+#refreshBtn:hover {
+    background-color: rgb(235, 216, 238);
+}
